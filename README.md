@@ -1,24 +1,181 @@
-<h1 align="center">Hi 👋, I'm Narendiran E A Passionate MERN Stack Developer | Full-Stack Engineer</h1>
-<h3 align="center">A results-driven software developer specializing in MERN stack applications, building scalable, secure, and high-performance solutions with modern DevOps practices.</h3>
+<h1 align="center">
+Hi 👋, I'm Narendiran E — Backend-Focused Full Stack Software Engineer
+</h1>
 
-- 🔭 I’m currently working on [Nexus Care](https://www.gonexuscare.com/)
+<h3 align="center">
+Building scalable SaaS platforms, workflow-driven applications, GraphQL backend systems, and production-grade MERN architectures with modern cloud & CI/CD practices.
+</h3>
 
-- 🌱 I’m currently learning **Spring , hibernate**
+* 🔭 Currently engineering scalable workflow systems and backend-heavy SaaS applications at [Nexus Care](https://www.gonexuscare.com/)
 
-- 👨‍💻 All of my projects are available at [https://narendiran-portfolio.vercel.app/](https://narendiran-portfolio.vercel.app/)
+* 🏗 Specialized in designing multi-tenant architectures, RBAC authorization systems, realtime workflows, GraphQL APIs, and secure backend infrastructures
 
-- 📫 How to reach me **narendirannaresh396@gmail.com**
+* 🚀 Built and deployed production-grade MERN applications with AWS CI/CD pipelines, MongoDB optimization, JWT authentication systems, and workflow automation
+
+* 🌱 Currently exploring **Spring Boot, Hibernate, distributed backend systems, and advanced software architecture patterns**
+
+* 👨‍💻 Portfolio & Engineering Case Studies:
+  https://narendiran-portfolio.vercel.app/
+
+* 📫 Reach me at:
+  **[narendirannaresh396@gmail.com](mailto:narendirannaresh396@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/narendiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narendiran" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/naresh.narendiran/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/naresh.narendiran/?hl=en" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/narendiran-e-665102287" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Narendiran LinkedIn" height="30" width="40" />
+</a>
+
 </p>
 
+<h3 align="left">Core Engineering Expertise:</h3>
+
+<p>
+
+✅ Backend-Focused Full Stack Engineering
+✅ RBAC Authorization & Access Control Systems
+✅ Multi-Tenant SaaS Architecture
+✅ GraphQL APIs & Realtime Workflows
+✅ REST API Design & Backend Infrastructure
+✅ JWT Authentication & Secure Session Handling
+✅ Offline-First Progressive Web Applications
+✅ MongoDB Query Optimization & Scalable Data Flows
+✅ AWS CI/CD Deployment Pipelines
+✅ React.js Frontend Architecture & State Management
+
+</p>
+
+<h3 align="left">Featured Engineering Projects:</h3>
+
+<h4>🚀 WWS Nexus CRM</h4>
+
+<p>
+Enterprise-grade CRM platform connecting DME providers, physicians, and patients through secure workflow-driven systems.
+</p>
+
+<ul>
+<li>Architected scalable multi-tenant backend workflows</li>
+<li>Implemented RBAC authorization & subscription-based feature restrictions</li>
+<li>Built GraphQL APIs with realtime subscription workflows</li>
+<li>Integrated JWT authentication & secure session management</li>
+<li>Managed AWS CI/CD deployment pipelines</li>
+<li>Designed production-grade MongoDB schema architecture</li>
+</ul>
+
+<h4>🏥 WWS Business Manager</h4>
+
+<p>
+Insurance verification & workflow management platform designed for operational scalability and secure data handling.
+</p>
+
+<ul>
+<li>Developed secure REST API architecture</li>
+<li>Built reusable frontend component systems</li>
+<li>Optimized MongoDB queries & API response performance</li>
+<li>Implemented validation, workflow restrictions & role-based access systems</li>
+<li>Improved workflow efficiency through backend optimization strategies</li>
+</ul>
+
+<h4>📱 TaskFlow PWA</h4>
+
+<p>
+Offline-first resilient task management platform focused on service worker architecture and network resilience.
+</p>
+
+<ul>
+<li>Implemented Service Worker-based offline architecture</li>
+<li>Designed resilient synchronization workflows</li>
+<li>Built JWT-based authentication system</li>
+<li>Handled unstable network scenarios gracefully</li>
+<li>Developed installable PWA workflow</li>
+</ul>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/If you’d like to support my open-source contributions → ☕ Buy Me a Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="If you’d like to support my open-source contributions → ☕ Buy Me a Coffee" /></a></p><br><br>
+<p align="left">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naren-naresh&show_icons=true&locale=en&layout=compact" alt="naren-naresh" /></p>
+<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+<img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://graphql.org" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://jestjs.io" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://redux.js.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+
+</p>
+
+<p>
+
+<img
+align="center"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=naren-naresh&show_icons=true&locale=en&layout=compact"
+alt="naren-naresh"
+/>
+
+</p>
